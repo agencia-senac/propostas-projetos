@@ -1,0 +1,3 @@
+Leilão de entregas
+
+Depois que as empresas na tela inicial anunciassem a origem e o destino abriria uma tela para a empresa descrever a mercadoria a ser entregue e se tem alguma particularidade. As empresas cadastradas e os autônomos seriam avisados do frete e dariam lances.
