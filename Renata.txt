@@ -1,4 +1,4 @@
-﻿Proposta de Aplicativo.
+﻿Proposta de Aplicativo 1.
 
 Aplicativo de Cadastro de Animais Perdidos de Estimação.
 
@@ -13,5 +13,35 @@ Funções.
 7) Cadastro de patrocinados.
 8) Petshop
 9) ONGs
+
+_______________________________
+
+Proposta de Aplicativo 2.
+
+Aplicativo de Cadastro de Pet Shop. - (Tipo Vaniday)
+
+1) Cadastro de PetShops
+2) Cadastro dos Serviços e valores
+3) Agendamento dos Serviços.
+4) Localização dos PetShops.
+
+________________________________
+
+Proposta de Aplicativo 3.
+
+Aplicativo Venda de Ração mais barata.
+
+1) Cadastro de Fornecedores.
+2) Locação mais proxima do cliente.
+
+________________________________
+
+Proposta de Aplicativo 4.
+
+Aplicativo: Videos de "Faça você mesmo".
+
+1) Cadastro de vídeos/aulas de "DYS" - Do It your Self.
+
+
 
 
