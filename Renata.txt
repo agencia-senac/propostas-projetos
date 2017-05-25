@@ -1,0 +1,17 @@
+﻿Proposta de Aplicativo.
+
+Aplicativo de Cadastro de Animais Perdidos de Estimação.
+
+Funções.
+
+1) Cadastro de animais perdidos.
+2) Publicação do cadastro no Facebook do Usuário.
+3) Cadastro do login do usuário aproveitando o cadastro do FaceBook.
+4) Geolocalização do animal.
+5) Notificação para o usuário caso o animal seja encontrado.
+6) Criar um blogue para o dono do animal de estimação se comunicar, postar informações e receber respostar.
+7) Cadastro de patrocinados.
+8) Petshop
+9) ONGs
+
+
