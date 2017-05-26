@@ -1,0 +1,55 @@
+aplicativo de resrvas
+
+login:
+senha:
+
+locais:   ()
+locais preferidos:   (x)
+
+
+barbearia do joao:  (x)
+cortes style:  ()
+
+
+serviços:
+
+corte: 30min.   ()
+barba: 20min.   ()
+pezinho: 10min.   (x)
+sobrancelha: 10min.  ()
+
+
+luzes: 50min.   ()
+pigmentação: 30min.   ()
+relaxamento: 1h.   ()
+
+mes
+
+jan:  ()
+fev:  ()
+mar:  ()
+abr:  ()
+mai:  ()
+jun:  (x)
+jul:  ()
+ago:  ()
+set:  ()
+out:  ()
+nov:  ()
+dez:  ()
+
+
+dia:
+1 2 3 4 5 6 7 
+8 9 (10) 11 12 13 14
+15 16 17 18 19 20 21
+22 23 24 25 26 27 28 
+29 30 31
+
+confirmação:
+data: 10/jun
+serviço: pezinho
+
+Nós da (barbearia do joao) esperamos voçe!
+
+obrigado;   siga nossa pagina face/inst/twet.
