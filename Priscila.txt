@@ -1,0 +1,22 @@
+App 1) Aplicativo que contribui para encontrar animais perdidos
+O aplicativo funciona de forma colaborativa, onde o dono do animal perdido irá pesquisar pela bairro ou zona do estado em que o animal se perdeu, 
+e a platoforma onde se encontrará possiveis informações a respeito do animal são alimentadas por colaboradores que tem o aplicativo, similar ao sistema de 
+alimentação de informações do Waze.
+As pessoas que mais contribuem para a alimentação desses dados, ganha descontos em produtos ou prémios de empresas parceiras.
+
+App 2) Sistema e saúde online:
+Um dos maiores problemas são: Usuarios do SUS precisando de uma consulta que não está disponível ou não poderão comparecer a consulta e precisam trocar para
+uma data próxima, porem acabam indo parar na fila de espera.
+A idéia do aplicativo visa solucionar esse problema:
+
+Por exemplo: Tenho uma consulta marcada para hoje, ás 15h, mas não conseguirei comparecer nem ir ao hospital para cancelar a consulta e remarcar.
+Posso procurar no aplicativos datas disponíveis para troca, de 26/05 á 10/06 por exemplo, encontrar uma vaga, pega-lá e disponibilizar a minha com
+uma marca que indica "Consulta Hoje". Assim, ambos saem ganhando e vagas deixarão de ser tão desperdiçadas.
+
+App 3) Aplicativo de serviços em geral:
+
+Pessoas que precisam de uma solução para: conserto de eletrodomésticos, diaristas, uma volta com o pet, etc.
+A pessoa que presta o serviço se cadastra, fala sobre os serviços que faz e coloca o valor.
+A pessoa que precisa do serviço, pelo aplicativo os encontra (por bairro ou região) e vê as avaliações dos perfis cadastrados.
+
+

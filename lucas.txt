@@ -1,0 +1,4 @@
+Aplicativo de Trocas
+
+O aplicativo seria igual o OLX, mas somente com trocas, os usuário anuncia o produto que ele quer trocar, e os interessados entra em contato
+para negociar.

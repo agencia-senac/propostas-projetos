@@ -1,0 +1,11 @@
+Aplicativo para comercio
+
+atenderia mais de um comercio, clientes poderiam se cadastrar e pagar uma mensalidade para utilização de serviços
+
+funçoes:
+
+pedidos 
+ver menu
+pagamento
+promoções
+achar estabelecimento mais proximo de sua região e promoções do dia.
