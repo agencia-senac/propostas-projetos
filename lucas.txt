@@ -1,3 +1,4 @@
-Leilão de entregas
+Aplicativo de Trocas
 
-Depois que as empresas na tela inicial anunciassem a origem e o destino abriria uma tela para a empresa descrever a mercadoria a ser entregue e se tem alguma particularidade. As empresas cadastradas e os autônomos seriam avisados do frete e dariam lances.
+O aplicativo seria igual o OLX, mas somente com trocas, os usuário anuncia o produto que ele quer trocar, e os interessados entra em contato
+para negociar.
