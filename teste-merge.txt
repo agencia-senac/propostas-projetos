@@ -7,7 +7,7 @@
 <!-- HEAD ---------->
 <head>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
-<title> Welcome</title>
+<title> Bem-Vindo</title>
 
 
 </head>
