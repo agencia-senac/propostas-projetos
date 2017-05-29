@@ -42,6 +42,19 @@ Aplicativo: Videos de "Faça você mesmo".
 
 1) Cadastro de vídeos/aulas de "DYS" - Do It your Self.
 
+_________________________________
+
+Proposta de Aplicativo 5.
+
+Aplicativo: Custa por voluntariados.
+
+1) Cadastro das Ongs interessadas em doações, serviços e produtos.
+2) Cadastro das necessidades de cada Ong.
+3) Cadastro de pessoas voluntárias;
+
+
+
+
 
 
 
