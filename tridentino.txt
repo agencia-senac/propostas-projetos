@@ -1,0 +1,9 @@
+Missa Tridentina.
+Cadastro de local e horário das missas tridentinas.
+Pesquisa de missa, local e hora.
+Catecismo católico.
+Orações e terço.
+Envio de e-mail com as informações da missa próximo a moradia do usuário.
+Cadastro pelo facebook.
+Adicionar eventos no calendário do google.
+
