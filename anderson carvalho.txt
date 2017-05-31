@@ -3,9 +3,13 @@ aplicativo de resrvas
 login:
 senha:
 
-locais:   ()
-locais preferidos:   (x)
 
+fazer ou alterar reserva:
+
+re-agendamento  ()
+
+locais:   ()
+loais preferidos   (x)
 
 barbearia do joao:  (x)
 cortes style:  ()
