@@ -1,2 +1,6 @@
-login com redes sociais
-chat no app.
+aplicativo preços de jogos.
+
+-login
+-promoções
+-avisar promoções
+-cadastrar produtos
