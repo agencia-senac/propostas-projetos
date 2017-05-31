@@ -1,0 +1,8 @@
+Room Service
+
+Um aplicativo que monitora o consumo do cliente dentro do hotel, como:
+•	Reservas
+•	Gastos pessoais
+•	Pacotes (promocionais)
+•	Utilização de espaços (áreas reservadas do hotel)
+•	E outros

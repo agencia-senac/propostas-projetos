@@ -1,0 +1,10 @@
+Missa Tridentina.
+Cadastro pelo facebook.
+Cadastro de local e horário das missas tridentinas.
+Pesquisa de missa, local e hora.
+Orações e terço.
+Video de uma missa de São Pio V.
+Envio de e-mail com as informações da missa próximo a moradia do usuário.
+Configuração de horas.
+Adicionar eventos no calendário do google.
+
